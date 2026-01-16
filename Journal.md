@@ -14,3 +14,14 @@
 	- Hook up prototype user system to pages to enforce access control
 	- Set up code coverage reporting -- this overlaps with Jenessy's tasks a bit, I may not end up doing this myself
 ---
+# Meeting Notes - 1/20
+**Paul Hartman**
+- **Git-visible accomplishments since last meeting (include time):**
+	- User authentication system using OmniAuth--facilitates login with GitHub, Google, Microsoft accounts via OAuth2 -- 3hr 47min
+- **Work in progress since last meeting not yet on Git (include time):**
+	- 
+- **Things I need:**
+	- 
+- **Things I will do before the next meeting (or the meeting after that):**
+	- 
+---
